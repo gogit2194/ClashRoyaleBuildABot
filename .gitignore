@@ -1,8 +1,12 @@
-**/__pycache__
 .idea/
-clashroyalebuildabot/data/screenshots
 .venv
 .vscode
 *.egg-info
 dist/
 build/
+__pycache__/
+*.pyc
+clashroyalebuildabot/debug
+clashroyalebuildabot/emulator/platform-tools
+env/
+crbab-venv/
